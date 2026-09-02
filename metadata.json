@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 疲劳驾驶检测系统仪表盘",
+  "description": "一个用于疲劳驾驶检测系统的网页仪表盘，基于多模态数据融合，可视化实时驾驶员状态、疲劳趋势和系统干预措施。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
